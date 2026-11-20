@@ -1,1 +1,2 @@
 Hello Git!
+Testing a new branch
